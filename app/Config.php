@@ -30,7 +30,7 @@ class Config
     /**
      * The database password.
      */
-    const DB_PASSWORD = 'Prateek@123';
+    const DB_PASSWORD = 'pass';
 
     /**
      * Whether to show errors or not.
@@ -50,12 +50,12 @@ class Config
     /**
      * The SMTP username for email sending.
      */
-    const SMTP_USERNAME = 'prateek.garg@innoraft.com';
+    const SMTP_USERNAME = 'abc.com';
 
     /**
      * The SMTP password for email sending.
      */
-    const SMTP_PASSWORD = 'kghxehtocsrvykmv';
+    const SMTP_PASSWORD = 'pass';
 
     /**
      * The SMTP encryption for email sending.
@@ -65,7 +65,7 @@ class Config
     /**
      * The default "From" email address for sent emails.
      */
-    const SMTP_FROM_EMAIL = 'prateek.garg@innoraft.com';
+    const SMTP_FROM_EMAIL = 'abc.com';
 }
 ?>
 
